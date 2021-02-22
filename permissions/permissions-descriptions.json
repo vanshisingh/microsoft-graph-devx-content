@@ -11,6 +11,16 @@
       "value": "eDiscovery.ReadWrite.All"
     },
     {
+      "adminConsentDescription": "Allows the app to read and write eDiscovery objects such as cases, custodians, review sets and other related objects on behalf of the signed-in user.",
+      "adminConsentDisplayName": "Read and write all eDiscovery objects",
+      "id": "Custom ID",
+      "isEnabled": true,
+      "isAdmin": true,
+      "consentDescription": "Allows the app to read and write eDiscovery objects such as cases, custodians, review sets and other related objects on your behalf.",
+      "consentDisplayName": "Read and write all eDiscovery objects",
+      "value": "test.Read.All"
+    },
+    {
       "adminConsentDescription": "Allows the app to read eDiscovery objects such as cases, custodians, review sets and other related objects on behalf of the signed-in user.",
       "adminConsentDisplayName": "Read all eDiscovery objects",
       "id": "99201db3-7652-4d5a-809a-bdb94f85fe3c",
