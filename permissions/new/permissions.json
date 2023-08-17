@@ -77,7 +77,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -281,7 +281,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -381,7 +381,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Acronym.Read.All": {
       "schemes": {
@@ -406,7 +406,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "mssearchgraphapi"
       }
     },
@@ -447,7 +447,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "DirectoryPreAuthZReq"
       }
     },
@@ -525,7 +525,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "DirectoryPreAuthZReq"
       }
     },
@@ -555,7 +555,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -606,7 +606,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -635,7 +635,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -664,7 +664,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -692,7 +692,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "APIConnectors.ReadWrite.All": {
       "schemes": {
@@ -750,7 +750,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpimmsgraphadmins"
       }
     },
@@ -788,7 +788,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -850,7 +850,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -916,7 +916,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -1094,7 +1094,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "idappcore"
       }
     },
@@ -1392,7 +1392,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -1612,7 +1612,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -1692,7 +1692,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -1743,7 +1743,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "astgraph"
       }
     },
@@ -1789,7 +1789,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "AuditLog.Read.All": {
       "schemes": {
@@ -1838,7 +1838,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ixrdev"
       }
     },
@@ -1866,7 +1866,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "BitLockerKey.ReadBasic.All": {
       "schemes": {
@@ -1892,7 +1892,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Bookings.Manage.All": {
       "schemes": {
@@ -1990,7 +1990,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -2101,7 +2101,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -2208,7 +2208,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -2365,7 +2365,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -2392,7 +2392,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "mssearchgraphapi"
       }
     },
@@ -2430,7 +2430,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "EdgeSiteManagement"
       }
     },
@@ -2494,7 +2494,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "EdgeSiteManagement"
       }
     },
@@ -2530,7 +2530,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -2572,7 +2572,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -2653,7 +2653,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -2744,7 +2744,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -2790,7 +2790,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -2850,7 +2850,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -3017,7 +3017,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -3067,7 +3067,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -3179,7 +3179,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -3192,7 +3192,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -3427,7 +3427,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -3455,7 +3455,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -3484,7 +3484,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "gabbateamsg"
       }
     },
@@ -3515,7 +3515,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "gabbateamsg"
       }
     },
@@ -3582,7 +3582,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -3595,7 +3595,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -3661,7 +3661,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -3732,7 +3732,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -3825,7 +3825,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -3870,7 +3870,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Calls.JoinGroupCallAsGuest.All": {
       "schemes": {
@@ -3911,7 +3911,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -3937,7 +3937,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -3970,7 +3970,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -3995,7 +3995,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4029,7 +4029,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4054,7 +4054,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4091,7 +4091,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4130,7 +4130,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4158,7 +4158,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "ChannelMember.ReadWrite.All": {
       "schemes": {
@@ -4254,7 +4254,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4269,7 +4269,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4340,7 +4340,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4380,7 +4380,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4425,7 +4425,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4460,7 +4460,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4487,7 +4487,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4524,7 +4524,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4551,7 +4551,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4612,7 +4612,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4650,7 +4650,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4683,7 +4683,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4752,7 +4752,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4819,7 +4819,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4873,7 +4873,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4886,7 +4886,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4925,7 +4925,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4961,7 +4961,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -4974,7 +4974,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5103,7 +5103,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5202,7 +5202,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5215,7 +5215,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5242,7 +5242,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5272,7 +5272,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5300,7 +5300,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5328,7 +5328,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5341,7 +5341,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5393,7 +5393,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5443,7 +5443,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5456,7 +5456,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5481,7 +5481,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5521,7 +5521,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5557,7 +5557,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5586,7 +5586,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5626,7 +5626,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -5762,7 +5762,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpcgraph"
       }
     },
@@ -6030,7 +6030,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpcgraph"
       }
     },
@@ -6068,7 +6068,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "aadaccessreviews"
       }
     },
@@ -6106,7 +6106,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "aadaccessreviews"
       }
     },
@@ -6195,7 +6195,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -6210,7 +6210,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -6328,7 +6328,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -6343,7 +6343,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -6377,7 +6377,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "aadusersandtenants"
       }
     },
@@ -6414,7 +6414,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "XTUPSperms"
       }
     },
@@ -6470,7 +6470,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "XTUPSperms"
       }
     },
@@ -6512,7 +6512,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "XTUPSperms"
       }
     },
@@ -6563,7 +6563,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "XTUPSperms"
       }
     },
@@ -6583,7 +6583,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "DirectoryPreAuthZReq"
       }
     },
@@ -6603,7 +6603,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "DirectoryPreAuthZReq"
       }
     },
@@ -6641,7 +6641,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "DirectoryPreAuthZReq"
       }
     },
@@ -6692,7 +6692,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "DirectoryPreAuthZReq"
       }
     },
@@ -6734,7 +6734,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "smrtsec"
       }
     },
@@ -6799,7 +6799,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "smrtsec"
       }
     },
@@ -6873,7 +6873,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -6922,7 +6922,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "afsadmins"
       }
     },
@@ -6957,7 +6957,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "afsadmins"
       }
     },
@@ -7049,7 +7049,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "devicesapprovers"
       }
     },
@@ -7136,7 +7136,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -7170,7 +7170,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "PreAuthZ"
       }
     },
@@ -7203,7 +7203,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "PreAuthZ"
       }
     },
@@ -7458,7 +7458,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphIntuneApprovers"
       }
     },
@@ -7783,7 +7783,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphIntuneApprovers"
       }
     },
@@ -8912,7 +8912,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphIntuneApprovers"
       }
     },
@@ -10063,7 +10063,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphIntuneApprovers"
       }
     },
@@ -10295,7 +10295,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphIntuneApprovers"
       }
     },
@@ -10696,7 +10696,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphIntuneApprovers"
       }
     },
@@ -11094,7 +11094,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphIntuneApprovers"
       }
     },
@@ -11192,7 +11192,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphIntuneApprovers"
       }
     },
@@ -11349,7 +11349,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphIntuneApprovers"
       }
     },
@@ -11495,7 +11495,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphIntuneApprovers"
       }
     },
@@ -11725,7 +11725,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphIntuneApprovers"
       }
     },
@@ -11831,7 +11831,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -12135,7 +12135,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "DirectoryPreAuthZReq"
       }
     },
@@ -12687,7 +12687,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -12723,7 +12723,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ixrdev"
       }
     },
@@ -12778,7 +12778,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ixrdev"
       }
     },
@@ -12817,7 +12817,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "DirectoryPreAuthZReq"
       }
     },
@@ -12908,7 +12908,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -13088,7 +13088,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -13288,7 +13288,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -13318,7 +13318,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -13346,7 +13346,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -13414,7 +13414,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -13457,7 +13457,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -13521,7 +13521,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -13568,7 +13568,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -13632,7 +13632,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -13679,7 +13679,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -13826,7 +13826,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -13898,7 +13898,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -14045,7 +14045,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -14114,7 +14114,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -14147,7 +14147,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -14197,7 +14197,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -14247,7 +14247,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -14274,7 +14274,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -14303,7 +14303,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -14401,7 +14401,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "eduapipreauth"
       }
     },
@@ -14431,7 +14431,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "EduRoster.WriteWrite.All": {
       "schemes": {
@@ -14455,7 +14455,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "EntitlementManagement.Read.All": {
       "schemes": {
@@ -14581,7 +14581,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igaelmlivesite"
       }
     },
@@ -14830,7 +14830,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igaelmlivesite"
       }
     },
@@ -14866,7 +14866,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "gcsowners"
       }
     },
@@ -14940,7 +14940,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "gcsowners"
       }
     },
@@ -15025,7 +15025,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "gcsowners"
       }
     },
@@ -15070,7 +15070,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "gcsowners"
       }
     },
@@ -15156,7 +15156,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "gcsowners"
       }
     },
@@ -15242,7 +15242,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "gcsowners"
       }
     },
@@ -15267,7 +15267,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Files.Read": {
       "schemes": {
@@ -15492,7 +15492,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphSPOApprovers"
       }
     },
@@ -15737,7 +15737,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphSPOApprovers"
       }
     },
@@ -15752,7 +15752,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphSPOApprovers"
       }
     },
@@ -17127,7 +17127,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphSPOApprovers"
       }
     },
@@ -17621,7 +17621,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphSPOApprovers"
       }
     },
@@ -17676,7 +17676,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphSPOApprovers"
       }
     },
@@ -17710,7 +17710,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphSPOApprovers"
       }
     },
@@ -17829,7 +17829,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "d365bcapiadmin"
       }
     },
@@ -17855,7 +17855,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "AADGroupsPreAuth"
       }
     },
@@ -18095,7 +18095,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "AADGroupsPreAuth"
       }
     },
@@ -18540,7 +18540,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -18634,7 +18634,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "AADGroupsPreAuth"
       }
     },
@@ -18682,7 +18682,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -18722,7 +18722,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpimmsgraphadmins"
       }
     },
@@ -18824,7 +18824,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpimmsgraphadmins"
       }
     },
@@ -18862,7 +18862,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "serresapp"
       }
     },
@@ -18888,7 +18888,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "AadIpUxDevAdmin"
       }
     },
@@ -18923,7 +18923,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ispuxdeveap"
       }
     },
@@ -18971,7 +18971,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ispuxdeveap"
       }
     },
@@ -19012,7 +19012,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "AadIpUxDevAdmin"
       }
     },
@@ -19075,7 +19075,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "AadIpUxDevAdmin"
       }
     },
@@ -19133,7 +19133,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpimmsgraphadmins"
       }
     },
@@ -19311,7 +19311,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpimmsgraphadmins"
       }
     },
@@ -19333,7 +19333,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "exospm_sg"
       }
     },
@@ -19368,7 +19368,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19454,7 +19454,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19500,7 +19500,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19534,7 +19534,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19582,7 +19582,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19616,7 +19616,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19651,7 +19651,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19686,7 +19686,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19746,7 +19746,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19781,7 +19781,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19841,7 +19841,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19877,7 +19877,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IndustryDataAgsAdmin"
       }
     },
@@ -19945,7 +19945,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "MipServiceApprovers"
       }
     },
@@ -20011,7 +20011,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "MipServiceApprovers"
       }
     },
@@ -20041,7 +20041,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "LearningAssignedCourse.Read.All": {
       "schemes": {
@@ -20086,7 +20086,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "LearningAssignedCourse.ReadWrite.All": {
       "schemes": {
@@ -20131,7 +20131,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "LearningContent.Read.All": {
       "schemes": {
@@ -20163,7 +20163,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "LearningApp"
       }
     },
@@ -20197,7 +20197,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "LearningApp"
       }
     },
@@ -20225,7 +20225,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "LearningApp"
       }
     },
@@ -20264,7 +20264,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "LearningApp"
       }
     },
@@ -20294,7 +20294,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "LearningSelfInitiatedCourse.Read.All": {
       "schemes": {
@@ -20339,7 +20339,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "LearningSelfInitiatedCourse.ReadWrite.All": {
       "schemes": {
@@ -20384,7 +20384,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "LifeCycleInfo.Read.All": {
       "schemes": {
@@ -20402,7 +20402,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "LifeCycleInfo.ReadWrite.All": {
       "schemes": {
@@ -20420,7 +20420,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "LifecycleWorkflows.Read.All": {
       "schemes": {
@@ -20490,7 +20490,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "AADLCMAGSApprovers"
       }
     },
@@ -20650,7 +20650,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "AADLCMAGSApprovers"
       }
     },
@@ -20742,7 +20742,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -20770,7 +20770,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -20822,7 +20822,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -20864,7 +20864,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -21029,7 +21029,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -21044,7 +21044,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -21101,7 +21101,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -21116,7 +21116,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -21182,7 +21182,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -21286,7 +21286,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stisaprvc"
       }
     },
@@ -21345,7 +21345,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "ManagedTenants.ReadWrite.All": {
       "schemes": {
@@ -21442,7 +21442,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Member.Read.Group": {
       "schemes": {
@@ -21453,7 +21453,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -21486,7 +21486,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -21627,7 +21627,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "onesvcaadadmin"
       }
     },
@@ -21739,7 +21739,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "onesvcaadadmin"
       }
     },
@@ -21850,7 +21850,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "onesvcaadadmin"
       }
     },
@@ -22038,7 +22038,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "onesvcaadadmin"
       }
     },
@@ -22227,7 +22227,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "onesvcaadadmin"
       }
     },
@@ -22242,7 +22242,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Notifications.ReadWrite.CreatedByApp": {
       "schemes": {
@@ -22276,7 +22276,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "afsteam"
       }
     },
@@ -22289,7 +22289,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "OnlineMeetingArtifact.Read.All": {
       "schemes": {
@@ -22339,7 +22339,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -22389,7 +22389,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -22449,7 +22449,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -22572,7 +22572,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -22671,7 +22671,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -22710,7 +22710,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -22742,7 +22742,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "OnPremDirectorySynchronization.ReadWrite.All": {
       "schemes": {
@@ -22783,7 +22783,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "OnPremisesPublishingProfiles.ReadWrite.All": {
       "schemes": {
@@ -22848,7 +22848,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "hybridSvcTeam"
       }
     },
@@ -22901,7 +22901,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "aadorgperms"
       }
     },
@@ -23059,7 +23059,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "aadorgperms"
       }
     },
@@ -23092,7 +23092,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "OrgContact.Read.All": {
       "schemes": {
@@ -23130,7 +23130,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "aadorgperms"
       }
     },
@@ -23143,7 +23143,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -23179,7 +23179,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "PeoplePreAuthz"
       }
     },
@@ -23213,7 +23213,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "PeoplePreAuthz"
       }
     },
@@ -23251,7 +23251,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "o365location"
       }
     },
@@ -23278,7 +23278,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "o365location"
       }
     },
@@ -23484,7 +23484,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpimmsgraphadmins"
       }
     },
@@ -23497,7 +23497,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Policy.Read.ConditionalAccess": {
       "schemes": {
@@ -23542,7 +23542,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cagraphscopeapproval"
       }
     },
@@ -23578,7 +23578,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "CnsntPreauthzApprvrs"
       }
     },
@@ -23613,7 +23613,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "aadaccessreviews"
       }
     },
@@ -23769,7 +23769,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Policy.ReadWrite.AuthenticationFlows": {
       "schemes": {
@@ -23801,7 +23801,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpimmsgraphadmins"
       }
     },
@@ -23933,7 +23933,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Policy.ReadWrite.Authorization": {
       "schemes": {
@@ -23992,7 +23992,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "DirectoryPreAuthZReq"
       }
     },
@@ -24113,7 +24113,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cagraphscopeapproval"
       }
     },
@@ -24147,7 +24147,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "aadaccessreviews"
       }
     },
@@ -24236,7 +24236,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "prgctex"
       }
     },
@@ -24264,7 +24264,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "adrsmsgraph"
       }
     },
@@ -24298,7 +24298,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "aadusersandtenants"
       }
     },
@@ -24318,7 +24318,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "hybridSvcTeam"
       }
     },
@@ -24385,7 +24385,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "mobilitypolicyperms"
       }
     },
@@ -24463,7 +24463,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "CnsntPreauthzApprvrs"
       }
     },
@@ -24511,7 +24511,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpimmsgraphadmins"
       }
     },
@@ -24533,7 +24533,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "exospm_sg"
       }
     },
@@ -24562,7 +24562,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -24602,7 +24602,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -24633,7 +24633,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -24662,7 +24662,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RtsAvengersSG"
       }
     },
@@ -24695,7 +24695,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -24740,7 +24740,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -24782,7 +24782,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -24861,7 +24861,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -24913,7 +24913,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25012,7 +25012,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25051,7 +25051,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25088,7 +25088,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25175,7 +25175,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25219,7 +25219,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25256,7 +25256,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25291,7 +25291,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25342,7 +25342,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25376,7 +25376,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25426,7 +25426,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25486,7 +25486,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25586,7 +25586,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25643,7 +25643,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25729,7 +25729,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25760,7 +25760,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25802,7 +25802,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25864,7 +25864,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "updev"
       }
     },
@@ -25892,7 +25892,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "PrivilegedAccess.Read.AzureADGroup": {
       "schemes": {
@@ -25916,7 +25916,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -25942,7 +25942,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "PrivilegedAccess.ReadWrite.AzureAD": {
       "schemes": {
@@ -26019,7 +26019,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -26058,7 +26058,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -26097,7 +26097,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -26133,7 +26133,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -26216,7 +26216,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "igagraph"
       }
     },
@@ -26243,7 +26243,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "RecordsManagement.Read.All": {
       "schemes": {
@@ -26292,7 +26292,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RecordsManagementGraph"
       }
     },
@@ -26392,7 +26392,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "RecordsManagementGraph"
       }
     },
@@ -26572,7 +26572,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cia_o365"
       }
     },
@@ -26605,7 +26605,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cia_o365"
       }
     },
@@ -26639,7 +26639,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cia_o365"
       }
     },
@@ -26666,7 +26666,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "ResourceSpecificPermissionGrant.ReadForChat.All": {
       "schemes": {
@@ -26689,7 +26689,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "RoleAssignmentSchedule.Read.Directory": {
       "schemes": {
@@ -26722,7 +26722,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TM"
       }
     },
@@ -26785,7 +26785,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TM"
       }
     },
@@ -26820,7 +26820,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TM"
       }
     },
@@ -26877,7 +26877,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TM"
       }
     },
@@ -26964,7 +26964,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "DirectoryPreAuthZReq"
       }
     },
@@ -27006,7 +27006,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpcgraph"
       }
     },
@@ -27109,7 +27109,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "DirectoryPreAuthZReq"
       }
     },
@@ -27151,7 +27151,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "RoleManagement.ReadWrite.CloudPC": {
       "schemes": {
@@ -27216,7 +27216,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpcgraph"
       }
     },
@@ -27406,7 +27406,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -27470,7 +27470,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "RoleManagementPolicy.Read.Directory": {
       "schemes": {
@@ -27501,7 +27501,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TM"
       }
     },
@@ -27545,7 +27545,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TM"
       }
     },
@@ -27607,7 +27607,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Schedule.ReadWrite.All": {
       "schemes": {
@@ -27731,7 +27731,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "SearchConfiguration.Read.All": {
       "schemes": {
@@ -27805,7 +27805,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "SearchAdminApiFC"
       }
     },
@@ -27881,7 +27881,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "SearchAdminApiFC"
       }
     },
@@ -27914,7 +27914,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "secgraphschema"
       }
     },
@@ -27969,7 +27969,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "secgraphschema"
       }
     },
@@ -28003,7 +28003,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ThreatAPIApprovers"
       }
     },
@@ -28061,7 +28061,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ThreatAPIApprovers"
       }
     },
@@ -28099,7 +28099,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "secgraphschema"
       }
     },
@@ -28161,7 +28161,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "secgraphschema"
       }
     },
@@ -28195,7 +28195,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -28253,7 +28253,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -28297,7 +28297,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ospred"
       }
     },
@@ -28340,7 +28340,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ospred"
       }
     },
@@ -28379,7 +28379,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ospred"
       }
     },
@@ -28412,7 +28412,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "spacgraph"
       }
     },
@@ -28446,7 +28446,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "spacgraph"
       }
     },
@@ -28468,7 +28468,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stickynotes"
       }
     },
@@ -28481,7 +28481,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stickynotes"
       }
     },
@@ -28503,7 +28503,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stickynotes"
       }
     },
@@ -28516,7 +28516,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "stickynotes"
       }
     },
@@ -28692,7 +28692,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphSPOApprovers"
       }
     },
@@ -28833,7 +28833,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphSPOApprovers"
       }
     },
@@ -29138,7 +29138,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphSPOApprovers"
       }
     },
@@ -29598,7 +29598,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "GraphSPOApprovers"
       }
     },
@@ -29647,7 +29647,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "spauthsg"
       }
     },
@@ -29669,7 +29669,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "exospm_sg"
       }
     },
@@ -29705,7 +29705,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "privacymanagementDSR"
       }
     },
@@ -29763,7 +29763,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "privacymanagementDSR"
       }
     },
@@ -29804,7 +29804,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ProvisioningFeedback"
       }
     },
@@ -29932,7 +29932,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ProvisioningFeedback"
       }
     },
@@ -30111,7 +30111,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TodoOnGraph"
       }
     },
@@ -30192,7 +30192,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -30207,7 +30207,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Tasks.ReadWrite": {
       "schemes": {
@@ -30533,7 +30533,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TodoOnGraph"
       }
     },
@@ -30678,7 +30678,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -30693,7 +30693,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "Team.Create": {
       "schemes": {
@@ -30725,7 +30725,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -30763,7 +30763,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -30797,7 +30797,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -30825,7 +30825,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -30897,7 +30897,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -30912,7 +30912,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -30925,7 +30925,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -30961,7 +30961,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -30986,7 +30986,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31011,7 +31011,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31031,7 +31031,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31056,7 +31056,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "TeamsApp.ReadWrite.All": {
       "schemes": {
@@ -31074,7 +31074,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31101,7 +31101,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31128,7 +31128,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31157,7 +31157,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31184,7 +31184,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31213,7 +31213,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31240,7 +31240,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31270,7 +31270,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31297,7 +31297,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31336,7 +31336,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31373,7 +31373,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31412,7 +31412,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31461,7 +31461,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31500,7 +31500,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31537,7 +31537,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31588,7 +31588,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31637,7 +31637,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31699,7 +31699,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31759,7 +31759,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31822,7 +31822,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31883,7 +31883,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -31945,7 +31945,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32005,7 +32005,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32067,7 +32067,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32127,7 +32127,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32206,7 +32206,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32267,7 +32267,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32329,7 +32329,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32389,7 +32389,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32426,7 +32426,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32451,7 +32451,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32513,7 +32513,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32551,7 +32551,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32585,7 +32585,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32610,7 +32610,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32635,7 +32635,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32660,7 +32660,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32685,7 +32685,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32721,7 +32721,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32746,7 +32746,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32772,7 +32772,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32822,7 +32822,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32860,7 +32860,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32898,7 +32898,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32955,7 +32955,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -32992,7 +32992,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33033,7 +33033,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33072,7 +33072,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33113,7 +33113,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33152,7 +33152,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33193,7 +33193,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33232,7 +33232,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33261,7 +33261,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "msteamttvxsg"
       }
     },
@@ -33288,7 +33288,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "msteamttvxsg"
       }
     },
@@ -33326,7 +33326,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33358,7 +33358,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33391,7 +33391,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33430,7 +33430,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33483,7 +33483,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33513,7 +33513,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33541,7 +33541,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33595,7 +33595,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33647,7 +33647,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TeamsPermissions"
       }
     },
@@ -33695,7 +33695,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "TermStore.ReadWrite.All": {
       "schemes": {
@@ -33798,7 +33798,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "ThreatAssessment.Read.All": {
       "schemes": {
@@ -33822,7 +33822,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TAPermApprover"
       }
     },
@@ -33861,7 +33861,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "TAPermApprover"
       }
     },
@@ -33894,7 +33894,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -33914,7 +33914,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "sipsapidev"
       }
     },
@@ -33977,7 +33977,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "secgraphschema"
       }
     },
@@ -34031,7 +34031,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "ThreatSubmission.Read": {
       "schemes": {
@@ -34063,7 +34063,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -34103,7 +34103,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -34148,7 +34148,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -34212,7 +34212,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "ThreatSubmissionPolicy.ReadWrite.All": {
       "schemes": {
@@ -34269,7 +34269,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "ThreatAPIApprovers"
       }
     },
@@ -34304,7 +34304,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpimmsgraphadmins"
       }
     },
@@ -34379,7 +34379,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "cpimmsgraphadmins"
       }
     },
@@ -34394,7 +34394,7 @@
         }
       },
       "pathSets": [],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "AADGroupsPreAuth"
       }
     },
@@ -34427,7 +34427,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "IdentityReq"
       }
     },
@@ -34472,7 +34472,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "azureaduserentity"
       }
     },
@@ -34505,7 +34505,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "aadb2bpreauthapp"
       }
     },
@@ -34538,7 +34538,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "azureaduserentity"
       }
     },
@@ -34817,7 +34817,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "azureaduserentity"
       }
     },
@@ -35093,7 +35093,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "azureaduserentity"
       }
     },
@@ -35305,7 +35305,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "azureaduserentity"
       }
     },
@@ -35595,7 +35595,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "azureaduserentity"
       }
     },
@@ -35976,7 +35976,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "azureaduserentity"
       }
     },
@@ -36030,7 +36030,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "afsadmins"
       }
     },
@@ -36097,7 +36097,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "mfateam"
       }
     },
@@ -36182,7 +36182,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "mfateam"
       }
     },
@@ -36297,7 +36297,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "mfateam"
       }
     },
@@ -36469,7 +36469,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "mfateam"
       }
     },
@@ -36494,7 +36494,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "UserShiftPreferences.ReadWrite.All": {
       "schemes": {
@@ -36518,7 +36518,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "VirtualAppointment.Read": {
       "schemes": {
@@ -36546,7 +36546,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "vvgraphadmins"
       }
     },
@@ -36574,7 +36574,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "vvgraphadmins"
       }
     },
@@ -36617,7 +36617,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "vvgraphadmins"
       }
     },
@@ -36658,7 +36658,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "vvgraphadmins"
       }
     },
@@ -36767,7 +36767,7 @@
           }
         }
       ],
-      "provisioningInfo": {
+      "ownerInfo": {
         "ownerSecurityGroup": "csiaadaccess"
       }
     },
@@ -36795,7 +36795,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     },
     "WorkforceIntegration.ReadWrite.All": {
       "schemes": {
@@ -36834,7 +36834,7 @@
           }
         }
       ],
-      "provisioningInfo": {}
+      "ownerInfo": {}
     }
   }
 }
