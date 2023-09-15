@@ -4001,6 +4001,42 @@
       "tip": "This query requires the TeamworkTag.ReadWrite permission",
       "docLink": "https://learn.microsoft.com/en-us/graph/api/teamworktagmember-delete?view=graph-rest-beta",
       "skipTest": false
+    },
+    {
+      "id":"7fcf2b8e-597a-4b67-b757-df68b385d8c3",
+      "category": "Scan Guidance",
+      "method": "GET",
+      "humanName": "sites delta",
+      "requestUrl": "/beta/sites/delta",
+      "docLink": "https://onedrive.visualstudio.com/OneDrive%20Service/_git/apidocs?path=/docs/rest-api/api/sites-delta.md&_a=preview&version=GBmaster",
+      "skipTest": false
+    },
+    {
+      "id":"01115e2a-bd2f-4b75-ba7f-c629ff0852ad",
+      "category": "Scan Guidance",
+      "method": "GET",
+      "humanName": "get all sites",
+      "requestUrl": "/beta/sites/getAllSites",
+      "docLink": "https://learn.microsoft.com/en-us/graph/api/site-getallsites?view=graph-rest-beta&tabs=http",
+      "skipTest": false
+    },
+    {
+      "id":"8bd4e943-6bc1-4177-9779-1bdad354f876",
+      "category": "Scan Guidance",
+      "method": "GET",
+      "humanName": "drive items delta",
+      "requestUrl": "/beta/sites/{siteid}/drives/{driveid}/root/delta",
+      "docLink": "https://learn.microsoft.com/en-us/graph/api/driveitem-delta?view=graph-rest-beta&tabs=http",
+      "skipTest": false
+    },
+    {
+      "id":"2f4ca29e-ff5f-4870-a11a-f157c1e4599d",
+      "category": "Scan Guidance",
+      "method": "GET",
+      "humanName": "list items delta",
+      "requestUrl": "/beta/sites/{siteid}/lists/{listid}/root/delta",
+      "docLink": "https://learn.microsoft.com/en-us/graph/api/listitem-delta?view=graph-rest-beta&tabs=http",
+      "skipTest": false
     }
   ]
 }
