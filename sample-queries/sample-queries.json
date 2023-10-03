@@ -4034,7 +4034,7 @@
       "category": "Scan Guidance",
       "method": "GET",
       "humanName": "list items delta",
-      "requestUrl": "/beta/sites/{siteid}/lists/{listid}/root/delta",
+      "requestUrl": "/beta/sites/{siteid}/lists/{listid}/items/delta",
       "docLink": "https://learn.microsoft.com/en-us/graph/api/listitem-delta?view=graph-rest-beta&tabs=http",
       "skipTest": false
     }
